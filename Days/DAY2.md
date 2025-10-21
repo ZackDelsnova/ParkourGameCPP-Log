@@ -1,5 +1,9 @@
 # Day 2
 
+- [Main](../README.md)
+- [Next](Day2-part2.md)
+- [Previous](Day1.md)
+
 ## What was done
 
 - moved everything to their own scripts

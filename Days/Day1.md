@@ -1,5 +1,8 @@
 # Day 1
 
+- [Main](../README.md)
+- [Next Day](Day2.md)
+
 ## Setup
 
 - downloaded SDL3, glad, glm
